@@ -33,7 +33,7 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#Mechanics">Mechanics and Features</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -45,10 +45,6 @@
 
 Create a 2D project on Unity
 
-
-Download the game tileset from here [https://www.spriters-resource.com/mobile/flappybird/sheet/59894/]
-
-Download the Flappy Bird Fonts [https://www.dafont.com/04b-19.font]
 
 ### Prerequisites
 
